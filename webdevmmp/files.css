@@ -1,0 +1,7 @@
+body {background-color: #4B4E5F;}
+body{font-family: IMPACT; font-size: 30px; color: #D0D1DD;}
+p{font-family: merriweather; font-size: 20px; color: #1D1F3C;}
+a{font-family: merriweather; font-size: 20px; color: #1D1F3C; text-decoration: none;}
+a:hover{color: orange;}
+ul{list-style: none;}
+img{border-style: double; border-width: 15px;border-color: #9F8E88;}
